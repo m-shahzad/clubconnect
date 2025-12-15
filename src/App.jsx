@@ -27,7 +27,7 @@ const EVENTS = [
     time: "18:00 PM",
     location: "Concordia 1",
     price: 1500,
-    image: "https://images.unsplash.com/photo-1459749411177-2a2965bda380?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&q=80&w=800",
     category: "Music"
   },
   {
