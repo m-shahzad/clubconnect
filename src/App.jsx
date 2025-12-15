@@ -109,7 +109,7 @@ const WelcomeScreen = ({ onLogin }) => (
   <div className="h-screen bg-gradient-to-br from-indigo-600 to-indigo-800 text-white flex flex-col justify-end p-8">
     <div className="mb-auto mt-20 text-center">
       <div className="w-20 h-20 bg-white rounded-2xl mx-auto flex items-center justify-center mb-6 shadow-xl">
-        <img src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&q=80&w=800"/>
+        <img src="https://ilike.b-cdn.net/logo-clubconnect.png"/>
       </div>
       <h1 className="text-4xl font-bold mb-2 tracking-tight">ClubConnect</h1>
       <p className="text-indigo-200 text-lg">One App. One Campus.</p>
